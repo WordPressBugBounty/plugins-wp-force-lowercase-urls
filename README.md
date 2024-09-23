@@ -1,0 +1,1 @@
+# plugins-wp-force-lowercase-urls
